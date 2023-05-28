@@ -10,4 +10,4 @@ Functions were implimented to classify the policies based on their status whethe
 According to those classifications, different tables are created in the database and according to functions, records
 are grouped in respective tables. The features contain management of clients, agents, policy,
 payment transactions, nominees and users can view their own personal details through the login and
-logout feature. XAMPP software is used to connect .php files and the database on a local server.
+logout feature. XAMPP software is used to connect .php files and the database on a local server. 
